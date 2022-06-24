@@ -1,0 +1,17 @@
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/bin/Debug/net6.0/Publisher
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/bin/Debug/net6.0/Publisher.deps.json
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/bin/Debug/net6.0/Publisher.runtimeconfig.json
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/bin/Debug/net6.0/Publisher.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/bin/Debug/net6.0/Publisher.pdb
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.csproj.AssemblyReference.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.AssemblyInfoInputs.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.AssemblyInfo.cs
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.csproj.CopyComplete
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/refint/Publisher.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.pdb
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/Publisher.genruntimeconfig.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/TopicExchange/Publisher/obj/Debug/net6.0/ref/Publisher.dll

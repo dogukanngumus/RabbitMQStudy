@@ -1,0 +1,17 @@
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/bin/Debug/net6.0/Consumer
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/bin/Debug/net6.0/Consumer.deps.json
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/bin/Debug/net6.0/Consumer.runtimeconfig.json
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/bin/Debug/net6.0/Consumer.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/bin/Debug/net6.0/Consumer.pdb
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.csproj.AssemblyReference.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.AssemblyInfoInputs.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.AssemblyInfo.cs
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.csproj.CopyComplete
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/refint/Consumer.dll
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.pdb
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/Consumer.genruntimeconfig.cache
+/Users/apple/Projects/RabbitMQStudy/3-Exchanges/HeaderExchange/Consumer/obj/Debug/net6.0/ref/Consumer.dll
